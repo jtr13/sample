@@ -1,6 +1,7 @@
 342 + 764 == 1106
 78 + 983
 34 + 98
+7 + 8
 a <- as.integer(342)
 b <- as.integer(764)
 c <- as.integer(78)
